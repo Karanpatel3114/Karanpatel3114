@@ -31,7 +31,9 @@
 - 🔵 **Jira Fundamentals – Coursera**
 
 📂 See my certificates [here](https://github.com/Karanpatel3114/CERTIFICATES)
+[![AWS Academy Graduate - AWS Academy Cloud Architecting](aws-academy-graduate-aws-academy-cloud-architecting.png)](https://www.credly.com/badges/287b08e0-09ea-4a0b-b712-505c4cd8d5fc/public_url)
 
+[![AWS Academy Graduate - AWS Academy Machine Learning Foundations](aws-academy-graduate-aws-academy-machine-learning-foundations.png)](https://www.credly.com/badges/40a73f4d-786f-49a8-b3e7-1c8d64f640dd/public_url)
 ---
 
 ## 🚀 Interests
