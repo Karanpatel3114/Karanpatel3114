@@ -32,9 +32,18 @@
 
 📂 See my certificates [here](https://github.com/Karanpatel3114/CERTIFICATES)
 
-[![AWS Academy Graduate - AWS Academy Cloud Architecting](aws-academy-graduate-aws-academy-cloud-architecting.png)](https://www.credly.com/badges/287b08e0-09ea-4a0b-b712-505c4cd8d5fc/public_url)
+### My Certifications & Badges
 
-[![AWS Academy Graduate - AWS Academy Machine Learning Foundations](aws-academy-graduate-aws-academy-machine-learning-foundations.png)](https://www.credly.com/badges/40a73f4d-786f-49a8-b3e7-1c8d64f640dd/public_url)
+<a href="https://www.credly.com/badges/287b08e0-09ea-4a0b-b712-505c4cd8d5fc/public_url">
+  <img src="aws-academy-graduate-aws-academy-cloud-architecting.png" alt="AWS Academy Graduate - AWS Academy Cloud Architecting" width="120">
+</a>
+
+<a href="https://www.credly.com/badges/40a73f4d-786f-49a8-b3e7-1c8d64f640dd/public_url">
+  <img src="aws-academy-graduate-aws-academy-machine-learning-foundations.png" alt="AWS Academy Graduate - AWS Academy Machine Learning Foundations" width="120">
+</a>
+
+---
+**View all my verified credentials on Credly:** [https://www.credly.com/users/YOUR-CREDLY-USERNAME/badges](https://www.credly.com/users/YOUR-CREDLY-USERNAME/badges)
 ---
 
 ## 🚀 Interests
