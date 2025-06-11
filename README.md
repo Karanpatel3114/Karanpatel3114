@@ -43,7 +43,7 @@
 </a>
 
 ---
-**View all my verified credentials on Credly:** [https://www.credly.com/users/YOUR-CREDLY-USERNAME/badges](https://www.credly.com/users/YOUR-CREDLY-USERNAME/badges)
+**View all my verified credentials on Credly:** [https://www.credly.com/users/karan-patel.15e49af4]
 ---
 
 ## 🚀 Interests
