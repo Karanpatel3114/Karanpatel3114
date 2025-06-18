@@ -1,5 +1,3 @@
-<!-- ⚡ Ultimate GitHub README for Karan Patel -->
-
 <h1 align="center" style="font-size: 52px;">👋 Hi, I'm <strong>Karan Patel</strong></h1>
 
 <div align="center">
