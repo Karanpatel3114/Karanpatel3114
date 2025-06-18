@@ -1,7 +1,15 @@
-<h1 align="center" style="font-size: 48px;">👋 Hi, I'm <strong>Karan Patel</strong></h1>
+<!-- ⚡ Ultimate GitHub README for Karan Patel -->
+
+<h1 align="center" style="font-size: 52px;">👋 Hi, I'm <strong>Karan Patel</strong></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Car+Lover+%7C+n8n+Automation+Builder;Final-Year+B.Tech+(AI+%26+ML)+Student;Python+%7C+AI+Agents+%7C+Cloud+%7C+Cybersecurity;Open+to+Internships+%26+Tech+Collaborations" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Car+Lover+%7C+n8n+Automation+Builder;Final-Year+B.Tech+(AI+%26+ML)+Student;Python+%7C+AI+Agents+%7C+Cloud+%7C+Cybersecurity;Open+to+Internships+%26+Tech+Collaborations" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" />
 </div>
 
 ---
@@ -11,9 +19,9 @@
 <p align="center" style="font-size: 20px;">
 🎓 Final-year B.Tech (AI & ML) student at <strong>Adani University</strong><br>
 🚗 <strong>Car Enthusiast</strong> with a vision for automotive intelligence<br>
-🤖 Passionate about <strong>AI Automation, Agents & Workflows (n8n)</strong><br>
-☁️ Certified in <strong>AWS & Jira</strong>, practitioner in <strong>Cloud + Data Viz</strong><br>
-📍 Based in <strong>Ahmedabad, India</strong> — actively seeking <strong>internships & collabs</strong>
+🤖 Building powerful <strong>AI Automation Agents & Workflows (n8n)</strong><br>
+☁️ Certified in <strong>AWS & Jira</strong> | Explorer of <strong>Cloud & Data Viz</strong><br>
+📍 Based in <strong>Ahmedabad, India</strong> — open for <strong>internships & collabs</strong>
 </p>
 
 ---
@@ -22,70 +30,66 @@
 
 ### 🖥️ Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="32">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35">
 </p>
 
 ### 🧠 AI / ML / Deep Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/CNN-000000?style=for-the-badge" height="32">
-  <img src="https://img.shields.io/badge/RNN-0000FF?style=for-the-badge" height="32">
-  <img src="https://img.shields.io/badge/LSTM-00C853?style=for-the-badge" height="32">
-  <img src="https://img.shields.io/badge/AI%20Agents-8E24AA?style=for-the-badge" height="32">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/CNN-black?style=for-the-badge" height="35">
+  <img src="https://img.shields.io/badge/RNN-blue?style=for-the-badge" height="35">
+  <img src="https://img.shields.io/badge/LSTM-green?style=for-the-badge" height="35">
+  <img src="https://img.shields.io/badge/AI_Agents-purple?style=for-the-badge" height="35">
 </p>
 
 ### 📊 Data Visualization
 <p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black" height="32">
-  <img src="https://img.shields.io/badge/Seaborn-42A5F5?style=for-the-badge" height="32">
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="32">
+  <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black" height="35">
+  <img src="https://img.shields.io/badge/Seaborn-42A5F5?style=for-the-badge" height="35">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35">
 </p>
 
-### ☁️ Cloud
+### ☁️ Cloud, Automation & Dev Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge" height="35">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" height="35">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" height="35">
 </p>
 
-### 🔧 Automation & Dev Tools
+### ⚒️ Frameworks & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge" height="32">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" height="32">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" height="32">
-</p>
-
-### 🧰 Frameworks & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="35">
 </p>
 
 ---
 
 <h2 align="center">📜 Certifications</h2>
 
-<p align="center">
+<p align="center" style="font-size: 18px;">
 🟡 <strong>AWS Machine Learning Foundations</strong> <br>
 🟡 <strong>AWS Cloud Architecting</strong> <br>
 🔵 <strong>Jira Fundamentals – Coursera</strong> <br>
 🟢 <strong>Python for Data Science 101 – CognitiveClasses.ai</strong> <br>
 🟢 <strong>Data Science 101 – CognitiveClasses.ai</strong> <br><br>
 
-📂 View all 👉 <a href="https://github.com/Karanpatel3114/CERTIFICATES"><strong>Certificate Repository</strong></a><br>
-🎖️ Verified Credly Badges 👉 <a href="https://www.credly.com/users/karan-patel.15e49af4"><strong>Credly Profile</strong></a>
+📂 <a href="https://github.com/Karanpatel3114/CERTIFICATES"><strong>Certificate Repository</strong></a> <br>
+🎖️ <a href="https://www.credly.com/users/karan-patel.15e49af4"><strong>Verified Credly Badges</strong></a>
 </p>
 
 <p align="center">
@@ -111,7 +115,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karanpatel3114&show_icons=true&theme=tokyonight&custom_title=My%20GitHub%20Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karanpatel3114&show_icons=true&theme=tokyonight&rank_icon=github" width="48%">
   <img src="https://streak-stats.demolab.com?user=Karanpatel3114&theme=tokyonight" width="48%"><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karanpatel3114&layout=compact&theme=tokyonight" width="48%">
 </p>
@@ -129,12 +133,12 @@
 <h2 align="center">🐍 GitHub Activity Snake</h2>
 
 <p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="GitHub Snake Animation"/>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" />
 </p>
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+<h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
   📧 <strong>Email:</strong> karan11005566@gmail.com <br>
@@ -143,6 +147,5 @@
 
 ---
 
-<p align="center"><i>🏁 “Driven by code, powered by passion — let's build the future!”</i></p>
-
+<p align="center" style="font-size: 20px;"><i>🏁 “Driven by code, powered by passion — let's build the future!”</i></p>
 
