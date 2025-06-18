@@ -112,13 +112,17 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karanpatel3114&show_icons=true&theme=tokyonight&rank_icon=github" width="48%">
-  <img src="https://streak-stats.demolab.com?user=Karanpatel3114&theme=tokyonight" width="48%"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karanpatel3114&layout=compact&theme=tokyonight" width="48%">
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karanpatel3114&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Karanpatel3114&theme=tokyonight&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karanpatel3114&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
