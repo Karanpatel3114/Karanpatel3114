@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-header-image-3.png" alt="GitHub Banner" />
+</p>
+
 <h1 align="center" style="font-size: 52px;">👋 Hi, I'm <strong>Karan Patel</strong></h1>
 
 <div align="center">
