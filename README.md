@@ -3,6 +3,8 @@
 </p>
 
 
+<h1 align="center" style="font-size: 52px;">👋 Hi, I'm <strong>Karan Patel</strong></h1>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Car+Lover+%7C+n8n+Automation+Builder;Final-Year+B.Tech+(AI+%26+ML)+Student;Python+%7C+AI+Agents+%7C+Cloud+%7C+Cybersecurity;Open+to+Internships+%26+Tech+Collaborations" />
 </div>
@@ -23,14 +25,6 @@
 🤖 Building powerful <strong>AI Automation Agents & Workflows (n8n)</strong><br>
 ☁️ Certified in <strong>AWS & Jira</strong> | Explorer of <strong>Cloud & Data Viz</strong><br>
 📍 Based in <strong>Ahmedabad, India</strong> — open for <strong>internships & collabs</strong>
-</p>
-
-<p align="center" style="font-size: 20px;">
-💼 Passionate about applying AI in practical, scalable, and impactful ways<br>
-🧠 Especially focused on developing autonomous agents and smart workflows using cutting-edge tools<br>
-📈 Striving for continuous improvement and innovation in everything I build<br>
-😄 Occasionally talks to AI more than humans — hey, it listens better!<br>
-🚀 Always curious, caffeinated, and ready to automate my way out of any problem!
 </p>
 
 ---
@@ -86,18 +80,6 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="35">
 </p>
 
----
-
----
-
-<h2 align="center">🌟 Bonus Fun Facts</h2>
-
-<p align="center" style="font-size: 18px;">
-🧩 I've automated my daily coffee schedule with n8n. True story.<br>
-🚀 If it moves and has data, I’ll probably try to make it smarter.<br>
-🤓 When I say "debugging", I mean talking to my rubber duck with deep philosophical questions.<br>
-😄 I believe a good AI model is 50% code, 30% data, and 20% vibes.
-</p>
 ---
 
 <h2 align="center">📜 Certifications</h2>
@@ -173,4 +155,3 @@
 ---
 
 <p align="center" style="font-size: 20px;"><i>🏁 “Driven by code, powered by passion — let's build the future!”</i></p>
-
