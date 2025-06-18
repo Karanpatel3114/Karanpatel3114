@@ -4,12 +4,12 @@
 
 <h1 align="center" style="font-size: 52px;">👋 Hi, I'm <strong>Karan Patel</strong></h1>
 
-<!-- 📝 Animated typing section must use Markdown image format for visibility -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Car+Lover+%7C+n8n+Automation+Builder;Final-Year+B.Tech+(AI+%26+ML)+Student;Python+%7C+AI+Agents+%7C+Cloud+%7C+Cybersecurity;Open+to+Internships+%26+Tech+Collaborations" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Car+Lover+%7C+n8n+Automation+Builder;Final-Year+B.Tech+(AI+%26+ML)+Student;Python+%7C+AI+Agents+%7C+Cloud+%7C+Cybersecurity;Open+to+Internships+%26+Tech+Collaborations" />
+</div>
 
 <br>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" />
