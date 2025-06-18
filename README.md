@@ -19,7 +19,10 @@
 🚗 <strong>Car Enthusiast</strong> with a vision for automotive intelligence<br>
 🤖 Building powerful <strong>AI Automation Agents & Workflows (n8n)</strong><br>
 ☁️ Certified in <strong>AWS & Jira</strong> | Explorer of <strong>Cloud & Data Viz</strong><br>
-📍 Based in <strong>Ahmedabad, India</strong> — open for <strong>internships & collabs</strong>
+📍 Based in <strong>Ahmedabad, India</strong> — open for <strong>internships & collabs</strong><br><br>
+🔥 <strong>Passionate about AI</strong> like Iron Man is about tech! Whether it's automating tasks with n8n or deploying deep learning models, I'm all in.<br>
+🧠 I don't just code AI agents — I give them life (and sometimes a great sense of humor 😄)<br>
+💡 I believe if AI doesn't amaze you daily, you're probably not using it right!
 </p>
 
 ---
@@ -75,6 +78,16 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="35">
 </p>
 
+---
+
+<h2 align="center">🌟 Bonus Fun Facts</h2>
+
+<p align="center" style="font-size: 18px;">
+🧩 I've automated my daily coffee schedule with n8n. True story.<br>
+🚀 If it moves and has data, I’ll probably try to make it smarter.<br>
+🤓 When I say "debugging", I mean talking to my rubber duck with deep philosophical questions.<br>
+😄 I believe a good AI model is 50% code, 30% data, and 20% vibes.
+</p>
 ---
 
 <h2 align="center">📜 Certifications</h2>
