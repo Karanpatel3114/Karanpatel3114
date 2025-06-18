@@ -75,13 +75,23 @@
 📂 All certificates in one place 👉 [My Certificates Repository](https://github.com/Karanpatel3114/CERTIFICATES)
 
 <div align="center">
+  <!-- AWS Badges -->
   <a href="https://www.credly.com/badges/287b08e0-09ea-4a0b-b712-505c4cd8d5fc/public_url">
     <img src="aws-academy-graduate-aws-academy-cloud-architecting.png" alt="AWS Academy Graduate - Cloud Architecting" width="120">
   </a>
   <a href="https://www.credly.com/badges/40a73f4d-786f-49a8-b3e7-1c8d64f640dd/public_url">
     <img src="aws-academy-graduate-aws-academy-machine-learning-foundations.png" alt="AWS ML Foundations" width="120">
   </a>
+  
+  <!-- IBM Badges -->
+  <a href="https://www.credly.com/badges/14edbc5b-b2e7-4173-ba9b-a06603fa5f03/public_url">
+    <img src="python-for-data-science.png" alt="Python for Data Science - IBM" width="120">
+  </a>
+  <a href="https://www.credly.com/badges/d3de609f-94f0-4961-9cfd-a17a1d2331cd/public_url">
+    <img src="data-science-foundations-level-1.png" alt="Data Science Foundations Level 1 - IBM" width="120">
+  </a>
 </div>
+
 
 🔗 **All verified badges on Credly:** [Click here](https://www.credly.com/users/karan-patel.15e49af4)
 
