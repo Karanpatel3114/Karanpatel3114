@@ -1,155 +1,146 @@
-# 👋 Hi, I'm Karan Patel!
+<!-- Complex & Aesthetic GitHub README for Karan Patel -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Karan+Patel!;AI+Engineer+%7C+Car+Lover+%7C+n8n+Automation+Builder;Final+Year+B.Tech+(AI+%26+ML)+Student;AI+Agents+%7C+Cloud+%7C+Cybersecurity+Explorer;Open+to+Internships+%26+Tech+Collaborations" alt="Typing SVG" />
+</h1>
+
+---
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Car+Lover+%7C+n8n+Automation+Builder;Final-Year+B.Tech+(AI+%26+ML)+Student;Python+%7C+AI+Agents+%7C+Cloud+%7C+Cybersecurity;Open+to+Internships+%26+Tech+Collaborations)](https://git.io/typing-svg)
-
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" />
 </div>
 
----
+<h2 align="center">🚀 About Me</h2>
 
-## 🚀 About Me
-
-🎓 Final-year B.Tech (AI & ML) student at **Adani University**  
-🚗 **Car Enthusiast** with a vision for automotive intelligence  
-🤖 Passionate about **AI Automation, Agents & Workflows (n8n)**  
-☁️ Certified in **AWS & Jira**, practitioner in **Cloud + Data Viz**  
-📍 Based in **Ahmedabad, India** — actively seeking **internships & collabs**
-
----
-
-## 🧠 Skills & Tools
-
-### 🖥️ Programming Languages  
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
-### 🤖 AI / ML / Deep Learning  
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CNN-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RNN-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LSTM-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Agents-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-</p>
-
-### 📊 Data Visualization  
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
-</p>
-
-### ☁️ Cloud, Automation & Dev Tools  
-<p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
-</p>
-
-### ⚙️ Frameworks & Databases  
-<p>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+<p align="center">
+🎓 Final-year B.Tech (AI & ML) student at <b>Adani University</b> <br>
+🚗 Car Enthusiast with a vision for automotive intelligence <br>
+🤖 Passionate about <b>AI Automation, Agents & Workflows (n8n)</b> <br>
+☁️ Certified in <b>AWS & Jira</b>, practitioner in Cloud + Data Viz <br>
+📍 Based in <b>Ahmedabad, India</b> — actively seeking internships & collabs
 </p>
 
 ---
 
-## 📜 Certifications
+<h2 align="center">🛠️ Skills & Tools</h2>
 
-- 🟡 **AWS Machine Learning Foundations**  
-- 🟡 **AWS Cloud Architecting**  
-- 🔵 **Jira Fundamentals – Coursera**  
-- 🟢 **Python for Data Science 101 – CognitiveClasses.ai**  
-- 🟢 **Data Science 101 – CognitiveClasses.ai**
+<table align="center" width="100%">
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+      <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+      <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+      <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+      <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php"/>
+      <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+      <img src="https://img.shields.io/badge/CNN-black?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/RNN-blue?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/LSTM-green?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data Viz</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+      <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Dev & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/n8n-orange?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira"/>
+      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+      <img src="https://img.shields.io/badge/Jenkins-red?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-📂 All certificates in one place 👉 [My Certificates Repository](https://github.com/Karanpatel3114/CERTIFICATES)
+---
+
+<h2 align="center">📜 Certifications</h2>
+
+<ul>
+  <li>🟡 <b>AWS Machine Learning Foundations</b></li>
+  <li>🟡 <b>AWS Cloud Architecting</b></li>
+  <li>🔵 <b>Jira Fundamentals – Coursera</b></li>
+  <li>🟢 <b>Python for Data Science 101 – CognitiveClasses.ai</b></li>
+  <li>🟢 <b>Data Science 101 – CognitiveClasses.ai</b></li>
+</ul>
+
+📁 <b>All certificates:</b> 👉 [My Certificates Repository](https://github.com/Karanpatel3114/CERTIFICATES)  
+🎖️ <b>Verified Credly Badges:</b> [Click Here](https://www.credly.com/users/karan-patel.15e49af4)
 
 <div align="center">
-  <!-- AWS Badges -->
-  <a href="https://www.credly.com/badges/287b08e0-09ea-4a0b-b712-505c4cd8d5fc/public_url">
-    <img src="aws-academy-graduate-aws-academy-cloud-architecting.png" alt="AWS Academy Graduate - Cloud Architecting" width="120">
-  </a>
-  <a href="https://www.credly.com/badges/40a73f4d-786f-49a8-b3e7-1c8d64f640dd/public_url">
-    <img src="aws-academy-graduate-aws-academy-machine-learning-foundations.png" alt="AWS ML Foundations" width="120">
-  </a>
-  <!-- IBM Badges -->
-  <a href="https://www.credly.com/badges/14edbc5b-b2e7-4173-ba9b-a06603fa5f03/public_url">
-    <img src="python-for-data-science.png" alt="Python for Data Science - IBM" width="120">
-  </a>
-  <a href="https://www.credly.com/badges/d3de609f-94f0-4961-9cfd-a17a1d2331cd/public_url">
-    <img src="data-science-foundations-level-1.png" alt="Data Science Foundations Level 1 - IBM" width="120">
-  </a>
+  <img src="aws-academy-graduate-aws-academy-cloud-architecting.png" width="100"/>
+  <img src="aws-academy-graduate-aws-academy-machine-learning-foundations.png" width="100"/>
+  <img src="python-for-data-science.png" width="100"/>
+  <img src="data-science-foundations-level-1.png" width="100"/>
 </div>
 
-🔗 **All verified badges on Credly:** [Click here](https://www.credly.com/users/karan-patel.15e49af4)
+---
+
+<h2 align="center">🎯 Current Focus</h2>
+
+- 🔁 Building **AI Agents with n8n & LLMs**
+- 🧠 Mastering **CNN, LSTM, RNN Architectures**
+- ☁️ Learning **Cloud + Cybersecurity**
+- 🚘 Passion Project: **AI for Automotive Systems**
 
 ---
 
-## 🔭 Current Focus
-
-- Building **AI Agents with n8n & LLMs**  
-- Mastering **CNN, LSTM, RNN architectures**  
-- Learning practical **Cloud + Cybersecurity** skills  
-- Passion project in **AI for Automotive Systems**
-
----
-
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karanpatel3114&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Karanpatel3114&theme=tokyonight&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karanpatel3114&layout=compact&theme=tokyonight)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Karanpatel3114&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Karanpatel3114&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karanpatel3114&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
-## 💬 Dev Quote
+<h2 align="center">💬 Dev Quote</h2>
 
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+</p>
 
 ---
 
-## 🐍 GitHub Activity
+<h2 align="center">🐍 GitHub Activity Snake</h2>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 📫 Contact Me
-
-- 📧 **Email:** karan11005566@gmail.com  
-- 🔗 **LinkedIn:** [karan-patel-727769217](https://www.linkedin.com/in/karan-patel-727769217/)
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" />
+</p>
 
 ---
 
-> 🏁 *“Driven by code, powered by passion — let's build the future!”*
+<h2 align="center">📫 Let's Connect</h2>
+
+<p align="center">
+  📧 <b>Email:</b> karan11005566@gmail.com <br>
+  🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/karan-patel-727769217/">karan-patel-727769217</a>
+</p>
+
+---
+
+<p align="center"><i>🏁 “Driven by code, powered by passion — let's build the future!”</i></p>
 
 
