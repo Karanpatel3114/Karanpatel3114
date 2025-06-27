@@ -98,14 +98,15 @@
 </p>
 
 <p align="center">
-  <img src="aws-academy-graduate-aws-academy-cloud-architecting.png" width="160" />
-  <img src="aws-academy-graduate-aws-academy-machine-learning-foundations.png" width="160" />
-  <img src="python-for-data-science.png" width="160" />
-  <img src="data-science-foundations-level-1.png" width="160" />
-  <img src="build-your-own-chatbot-level-1.png" width="160" />
-  <img src="deep-learning-using-tensorflow.png" width="160" />
-  <img src="big-data-foundations-level-1.png" width="160" />
+  <img src="aws-academy-graduate-aws-academy-cloud-architecting.png" width="160" style="margin: 20px;" />
+  <img src="aws-academy-graduate-aws-academy-machine-learning-foundations.png" width="160" style="margin: 20px;" />
+  <img src="python-for-data-science.png" width="160" style="margin: 20px;" />
+  <img src="data-science-foundations-level-1.png" width="160" style="margin: 20px;" />
+  <img src="build-your-own-chatbot-level-1.png" width="160" style="margin: 20px;" />
+  <img src="deep-learning-using-tensorflow.png" width="160" style="margin: 20px;" />
+  <img src="big-data-foundations-level-1.png" width="160" style="margin: 20px;" />
 </p>
+
 
 ---
 
