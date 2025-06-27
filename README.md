@@ -97,15 +97,45 @@
 🎖️ <a href="https://www.credly.com/users/karan-patel.15e49af4"><strong>Verified Credly Badges</strong></a>
 </p>
 
-<p align="center">
-  <img src="aws-academy-graduate-aws-academy-cloud-architecting.png" width="160" style="margin: 20px;" />
-  <img src="aws-academy-graduate-aws-academy-machine-learning-foundations.png" width="160" style="margin: 20px;" />
-  <img src="python-for-data-science.png" width="160" style="margin: 20px;" />
-  <img src="data-science-foundations-level-1.png" width="160" style="margin: 20px;" />
-  <img src="build-your-own-chatbot-level-1.png" width="160" style="margin: 20px;" />
-  <img src="deep-learning-using-tensorflow.png" width="160" style="margin: 20px;" />
-  <img src="big-data-foundations-level-1.png" width="160" style="margin: 20px;" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="aws-academy-graduate-aws-academy-cloud-architecting.png" width="160" /><br/>
+      <b>AWS Cloud Architecting</b>
+    </td>
+    <td align="center">
+      <img src="aws-academy-graduate-aws-academy-machine-learning-foundations.png" width="160" /><br/>
+      <b>AWS ML Foundations</b>
+    </td>
+    <td align="center">
+      <img src="python-for-data-science.png" width="160" /><br/>
+      <b>Python for Data Science</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="data-science-foundations-level-1.png" width="160" /><br/>
+      <b>Data Science 101</b>
+    </td>
+    <td align="center">
+      <img src="build-your-own-chatbot-level-1.png" width="160" /><br/>
+      <b>Chatbot without Coding</b>
+    </td>
+    <td align="center">
+      <img src="deep-learning-using-tensorflow.png" width="160" /><br/>
+      <b>Deep Learning w/ TensorFlow</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="big-data-foundations-level-1.png" width="160" /><br/>
+      <b>Big Data Foundations</b>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 
 
 ---
