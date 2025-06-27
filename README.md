@@ -102,6 +102,9 @@
   <img src="aws-academy-graduate-aws-academy-machine-learning-foundations.png" width="120" />
   <img src="python-for-data-science.png" width="120" />
   <img src="data-science-foundations-level-1.png" width="120" />
+  <img src="build-your-own-chatbot-level-1.png" width="120" />
+  <img src="deep-learning-using-tensorflow.png" width="120" />
+  <img src="big-data-foundations-level-1.png" width="120" />
 </p>
 
 ---
