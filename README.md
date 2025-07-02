@@ -92,7 +92,8 @@
 🟢 <strong>Build Your Own Chatbot - CognitiveClasses.ai</strong> <br>
 🟢 <strong>Deep Learning Using TensorFlow – CognitiveClasses.ai</strong> <br>
 🟢 <strong>Big Data 101 – CognitiveClasses.ai</strong> <br>
-🟢 <strong>SQL And Relational Database - CognitiveClasses.ai</strong> <br><br>
+🟢 <strong>SQL And Relational Database - CognitiveClasses.ai</strong> <br>
+🟢 <strong>Docker Essentials - CognitiveClasses.ai </strong> <br><br>
 
 📂 <a href="https://github.com/Karanpatel3114/CERTIFICATES"><strong>Certificate Repository</strong></a> <br>
 🎖️ <a href="https://www.credly.com/users/karan-patel.15e49af4"><strong>Verified Credly Badges</strong></a>
