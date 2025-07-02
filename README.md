@@ -133,7 +133,10 @@
       <img src="big-data-foundations-level-1.png" width="160" /><br/>
       <b>Big Data Foundations</b>
     </td>
-    <td></td>
+    <td align="center"> 
+      <img src="docker-essentials-a-developer-introduction.png" width="160" /><br/>
+      <b>Docker Essentials</b>
+    </td>
     <td></td>
   </tr>
 </table>
