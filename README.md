@@ -175,10 +175,12 @@
 <h2 align="center">🎯 Current Focus</h2>
 
 <p align="center" style="font-size: 18px;">
-🔁 Building <strong>AI Agents with n8n & LLMs</strong><br>
-🧠 Mastering <strong>CNN, LSTM, RNN Architectures</strong><br>
-☁️ Learning <strong>Cloud + Cybersecurity</strong><br>
-🚘 Passion Project: <strong>AI for Automotive Systems</strong>
+🤖 Developing <strong>AI Agents & Workflows</strong> using tools like <strong>n8n</strong>, APIs, and LLMs<br>
+🧠 Applying <strong>Machine Learning & Deep Learning</strong> concepts with <strong>TensorFlow</strong> and <strong>Python</strong><br>
+☁️ Exploring <strong>AWS Cloud Architecture</strong> and foundational <strong>ML services on AWS</strong><br>
+🐳 Working with <strong>Docker Essentials</strong> for containerized ML applications<br>
+🗄️ Strengthening skills in <strong>SQL, Big Data, and Data Analysis</strong> workflows<br>
+📊 Gaining experience with <strong>Jira</strong>, <strong>Postman API testing</strong>, and real-world <strong>data simulations</strong>
 </p>
 
 ---
