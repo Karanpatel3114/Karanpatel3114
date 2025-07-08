@@ -145,7 +145,10 @@
       <img src="docker-essentials-a-developer-introduction.png" width="160" /><br/>
       <b>Docker Essentials</b>
     </td>
-    <td></td>
+    <td align="center">
+       <img src="data-analysis-using-python.png" width="160" /><br/>
+      <b>Data Analysis With Python</b>
+    </td>
   </tr>
 </table>
 
