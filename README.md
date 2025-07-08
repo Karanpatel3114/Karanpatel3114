@@ -153,6 +153,19 @@
 </table>
 
 
+---
+
+
+<table>
+  <tr>
+    <th>
+      <img src="Postman - Postman API Fundamentals Student Expert - 2025-07-07.png" width="160" /><br/>
+      <b>Postman Student expert</b>
+    </th>
+  </tr>
+</table>
+
+
 
 ---
 
