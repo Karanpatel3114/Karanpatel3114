@@ -175,7 +175,7 @@
 <h2 align="center">🎯 Current Focus</h2>
 
 <p align="center" style="font-size: 18px;">
-🤖 Developing <strong>AI Agents & Workflows</strong> using tools like <strong>n8n</strong>, APIs, and LLMs<br>
+🤖 Developing <strong>AI Agents & Workflows</strong> using tools like <strong>n8n</strong>, APIs, Langchain, Rag and LLMs<br>
 🧠 Applying <strong>Machine Learning & Deep Learning</strong> concepts with <strong>TensorFlow</strong> and <strong>Python</strong><br>
 ☁️ Exploring <strong>AWS Cloud Architecture</strong> and foundational <strong>ML services on AWS</strong><br>
 🐳 Working with <strong>Docker Essentials</strong> for containerized ML applications<br>
