@@ -104,7 +104,8 @@
 🟢 <strong>Docker Essentials - CognitiveClasses.ai </strong> <br>
 🟢 <strong>Data Analysis with Python - CognitiveClasses.ai </strong> <br>
 🔴 <strong>Postman Student Expert - Postman academt </strong> <br>
-⚪ <strong>Deloitte Data Analytics Job Simulation </strong> <br><br>
+⚪ <strong>Deloitte Data Analytics Job Simulation </strong> <br>
+🟣 <strong>Oracle Certified AI Foundations certificate </strong> <br><br>
 
 📂 <a href="https://github.com/Karanpatel3114/CERTIFICATES"><strong>Certificate Repository</strong></a> <br>
 🎖️ <a href="https://www.credly.com/users/karan-patel.15e49af4"><strong>Verified Credly Badges</strong></a>
