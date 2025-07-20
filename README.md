@@ -166,6 +166,10 @@
       <img src="Postman - Postman API Fundamentals Student Expert - 2025-07-07.png" width="160" /><br/>
       <b>Postman Student expert</b>
     </th>
+    <th>
+      <img src="OCI25AICFA.jpeg" width="160" /><br/>
+      <b>Oracle certified AI foundation associate</b>
+    </th>
   </tr>
 </table>
 
