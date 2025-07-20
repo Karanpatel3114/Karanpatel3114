@@ -23,7 +23,7 @@
 🤖 Focused on building <strong>AI-powered applications & automation agents</strong> using tools like <strong>n8n</strong><br>
 📦 Skilled in <strong>Python, Machine Learning Frameworks, APIs, NLP</strong>, and full-stack AI integration<br>
 ☁️ Exploring the intersection of <strong>Cloud, DevOps, and AI systems</strong><br>
-⚒️ Certified by <strong>AWS,Deloitte,IBM,Postman & Jira</strong> | Explorer of <strong>Cloud & Data Viz</strong><br>
+⚒️ Certified by <strong>AWS,Deloitte,IBM,Oracle,Postman & Jira</strong> | Explorer of <strong>Cloud & Data Viz</strong><br>
 🧠 Passionate about <strong>generative AI, data-driven apps, and workflow orchestration</strong><br>
 📍 Based in <strong>Ahmedabad, India</strong> — open for <strong>internships, projects & collaborations</strong>
 </p>
